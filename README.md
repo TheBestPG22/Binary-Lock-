@@ -21,7 +21,10 @@ This project implements a **digital lock circuit** using logic gates and flip-fl
   - LED indicators
   - Logic probes and switches
 
-## Components Used
+## Components Used For Hardware
+
+![image](https://github.com/A-Alashker/Binary-Lock-/blob/main/Binary%20Lock%20LogicGatesHardware.jpg?raw=true)
+
 
 | Component | Function |
 |----------|----------|
