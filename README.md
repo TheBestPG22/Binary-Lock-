@@ -23,7 +23,6 @@ This project implements a **digital lock circuit** using logic gates and flip-fl
 
 ## Components Used For Hardware
 
-![image](https://github.com/TheBestPG22/Binary-Lock-/blob/2558786a516f23166f4363b6bc67b5b41a83870a/Logic%20Gates%20Hardware.jpg)
 
 
 | Component | Function |
@@ -35,6 +34,8 @@ This project implements a **digital lock circuit** using logic gates and flip-fl
 | 7432 OR Gates | Combination logic |
 | LEDs | Visual indicators for success/failure |
 | LogicState & Switches | User input interface |
+
+![image](https://github.com/TheBestPG22/Binary-Lock-/blob/2558786a516f23166f4363b6bc67b5b41a83870a/Logic%20Gates%20Hardware.jpg)
 
 ## Usage
 
